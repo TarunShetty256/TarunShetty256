@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%2F+SaaS+Builder;Real-time+Systems;Shipping+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+Engineer;Building+SaaS+Products;Real-time+Systems" />
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:141E30,100:243B55&height=150&section=header&text=Welcome%20to%20my%20profile&fontColor=ffffff&fontSize=28&animation=fadeIn"/>
 
 </div>
 
@@ -18,41 +18,40 @@
 
 ## 🧠 About Me
 
-```yaml
+```yaml id="p2o0v7"
 name: Tarun Shetty
 role: Full Stack Developer
 focus: AI + SaaS + Real-time Apps
-location: India
-mindset: "Build → Ship → Scale"
+status: Building cool things 🚀
 ```
 
 ---
 
-## ⚡ Tech Arsenal
+## ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,mysql,tailwind,firebase,aws,git,vercel" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,mysql,tailwind,firebase,aws,git,vercel&perline=6" />
 
 </div>
 
 ---
 
-## 🚀 Featured Builds
+## 🚀 Projects
 
 <div align="center">
 
-| 💡 Project              | 🚀 Description                            |
-| ----------------------- | ----------------------------------------- |
-| 🧠 AI Meeting Assistant | Smart summaries, automation, productivity |
-| 💻 Collaborative Editor | Real-time coding with WebRTC              |
-| 🌐 SaaS Tools           | Developer-focused productivity apps       |
+| 💡 Project      | ⚡ Description                |
+| --------------- | ---------------------------- |
+| 🧠 AI Assistant | Smart summaries & automation |
+| 💻 Code Editor  | Real-time collaboration      |
+| 🌐 SaaS Tools   | Developer productivity apps  |
 
 </div>
 
 ---
 
-## 📊 Performance
+## 📊 Live Stats
 
 <div align="center">
 
@@ -63,12 +62,32 @@ mindset: "Build → Ship → Scale"
 
 ---
 
-## 🧬 Current Build Mode
+## 🐍 Contribution Snake (Animated)
 
-```bash
-> Building AI-powered macOS apps
-> Scaling SaaS products
-> Exploring LLM integrations
+<div align="center">
+
+<img src="https://github.com/TarunShetty256/TarunShetty256/blob/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+## 📈 Activity Graph (Animated)
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TarunShetty256&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🧬 Current Mode
+
+```bash id="1d4scb"
+> Building AI macOS apps
+> Scaling SaaS
+> Exploring LLM systems
 ```
 
 ---
@@ -84,26 +103,8 @@ mindset: "Build → Ship → Scale"
 
 ---
 
-## 🧩 2026 Objectives
-
-```diff
-+ Launch SaaS product
-+ Gain traction (users + stars)
-+ Build impactful AI tools
-```
-
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
-
-</div>
-
----
-
-<div align="center">
-
-✨ Code. Build. Scale. ✨
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
 
 </div>
